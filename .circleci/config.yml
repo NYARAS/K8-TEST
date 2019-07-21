@@ -1,6 +1,6 @@
 version: 2
 jobs:
-
+  build:
     machine:
       environment:
         PROJECT_ID: ansible-gce-demo-247311
