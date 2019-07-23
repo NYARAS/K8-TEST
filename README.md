@@ -1,3 +1,3 @@
-# devfest-docker-session
+# kubernetes K8s by Otieno Calvine
 
-A hands on session on Deploying Docker containers to GCP with Kubernetes.
+A hands on on Deploying Docker containers to GCP with Kubernetes.
