@@ -14,7 +14,7 @@
   "author": "John Kariuki (https://github.com/johnkariuki)",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "needle": "^1.4.3"
   },
   "devDependencies": {
